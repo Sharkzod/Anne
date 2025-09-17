@@ -215,7 +215,7 @@ const RomanticPage = () => {
             My Appreciation
           </h2>
           <div className="text-left text-lg md:text-xl space-y-4 font-serif">
-            <p>Dear [Her Name],</p>
+            <p>Dear Anne,</p>
             <p>
               I wanted to create something to express how much I've enjoyed getting to know you. 
               From our conversations to the moments we've shared, you've left a remarkable impression on me.
